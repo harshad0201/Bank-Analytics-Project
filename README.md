@@ -8,5 +8,6 @@ Finance_2.csv
 
 Tools Used
 Data Cleaning : Microsoft Excel, Power Query (ETL)
-<img width="9513" height="712" alt="image" src="https://github.com/user-attachments/assets/4c0dd841-2f72-430f-b2d2-c55d1bdc9752" />
+
+
 
